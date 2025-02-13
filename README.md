@@ -2,6 +2,16 @@
 
 A mobile application built with React Native and Expo for managing a library's book collection. This app allows users to view, search, add, edit, and manage books in the library system.
 
+## Screenshots
+
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px;">
+  <img src="screenshots/home-screen.png" width="200" alt="Home Screen">
+  <img src="screenshots/register-screen.png" width="200" alt="Book Register">
+  <img src="screenshots/list-screen.png" width="200" alt="Book List">
+  <img src="screenshots/details-screen.png" width="200" alt="Details Book">
+  <img src="screenshots/editing-screen.png" width="200" alt="Edit Book">
+</div>
+
 ## Features
 
 - View all books in the library
